@@ -1,2 +1,2 @@
 # hello-world
-practice repo as a starter
+making my first branch and commits
